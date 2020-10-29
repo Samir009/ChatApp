@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1090902390368",
+    "firebase_url": "https://demoapp-91c4e.firebaseio.com",
+    "project_id": "demoapp-91c4e",
+    "storage_bucket": "demoapp-91c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090902390368:android:f1bd62753948ef47cb7505",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090902390368-499nl1sqo5fubjpl02227rbimi3e2epl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIc3jDb2vHayv_wRCDBRcn21rmYrTkVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090902390368-499nl1sqo5fubjpl02227rbimi3e2epl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090902390368:android:800796d153cc82cfcb7505",
+        "android_client_info": {
+          "package_name": "com.samir.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090902390368-mvaeue6lc5ohmcvv9in8u16loaasgu6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samir.demoapp",
+            "certificate_hash": "d99eea7530dd9e0e34665fadaeae955c30f6d10d"
+          }
+        },
+        {
+          "client_id": "1090902390368-hiqjid2q08rt0tdik4rtglnid21926q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samir.demoapp",
+            "certificate_hash": "be356f909fff5f2ba98046320458430c46802a3d"
+          }
+        },
+        {
+          "client_id": "1090902390368-c0eslvoh6d33eq0kc8ucvsdqe58hn2pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samir.demoapp",
+            "certificate_hash": "e9a9106b5b543c97de6530dc076f56e2e7512aff"
+          }
+        },
+        {
+          "client_id": "1090902390368-499nl1sqo5fubjpl02227rbimi3e2epl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIc3jDb2vHayv_wRCDBRcn21rmYrTkVgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090902390368-499nl1sqo5fubjpl02227rbimi3e2epl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
